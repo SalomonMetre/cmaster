@@ -1,0 +1,14 @@
+# ninja log v5
+1	719	1687640015758755693	CMakeFiles/Pointers.dir/types_of_pointers.cpp.o	d415b069d5df36fd
+1	70	1687661998567193322	build.ninja	42f2edb9b66f378b
+1	822	1687661636960542818	CMakeFiles/Pointers.dir/Other_files/types_of_pointers.cpp.o	c2d447959bb1ecf
+49	406	1687639534003622188	CMakeFiles/Pointers.dir/types_of_pointers.c.o	3ed404b5e4b2b165
+1	1043	1687661541584887670	CMakeFiles/Pointers.dir/main.cpp.o	777a99797cd8ff24
+1	919	1687662402333640347	CMakeFiles/Pointers.dir/main.cpp.o	777a99797cd8ff24
+2	1097	1687662402509639664	CMakeFiles/Pointers.dir/types_of_pointers.cpp.o	d415b069d5df36fd
+1097	1247	1687662402657639090	Pointers	2410f22e2ccc1980
+2	891	1687662739740986683	CMakeFiles/Pointers.dir/main.cpp.o	777a99797cd8ff24
+891	1038	1687662739884999954	Pointers	2410f22e2ccc1980
+2	835	1687663249104823241	CMakeFiles/Pointers.dir/types_of_pointers.cpp.o	d415b069d5df36fd
+2	838	1687663249108823405	CMakeFiles/Pointers.dir/main.cpp.o	777a99797cd8ff24
+838	997	1687663249264829830	Pointers	2410f22e2ccc1980
