@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Functions_and_Parameter_Passing",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Functions_and_Parameter_Passing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Functions_and_Parameter_Passing-Debug-789ec13741d548bac990.json",
+					"name" : "Functions_and_Parameter_Passing",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/salomon-metre/CLionProjects/DSA C@C++/Functions_and_Parameter_Passing/cmake-build-debug",
+		"source" : "/home/salomon-metre/CLionProjects/DSA C@C++/Functions_and_Parameter_Passing"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
