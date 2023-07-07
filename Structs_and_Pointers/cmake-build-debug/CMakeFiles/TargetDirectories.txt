@@ -1,0 +1,3 @@
+/home/salomon-metre/CLionProjects/DSA C@C++/Structs_and_Pointers/cmake-build-debug/CMakeFiles/Structs_and_Pointers.dir
+/home/salomon-metre/CLionProjects/DSA C@C++/Structs_and_Pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/salomon-metre/CLionProjects/DSA C@C++/Structs_and_Pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
