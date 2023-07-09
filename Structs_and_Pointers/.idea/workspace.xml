@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -21,74 +21,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d525402-2b40-48e5-ac78-141b18f877be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b2014a00a87fcc7e8502.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-8e83e1d13a4fffecee90.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-60ed14c0f10988c1fd20.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/.cmake/api/v1/reply/index-2023-07-06T07-28-09-0609.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/.cmake/api/v1/reply/target-Functions_and_Parameter_Passing-Debug-789ec13741d548bac990.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-a68c232ca45b00aa6bba.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/build.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/.idea/Reference.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/.cmake/api/v1/reply/cache-v2-66bd78e91232c2b14590.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-6289ee8735ab3d2fe235.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-646f15130de981aac82a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/.cmake/api/v1/reply/index-2023-07-06T06-38-41-0345.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/.cmake/api/v1/reply/target-Reference-Debug-a6299fd2068dcc256de1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-a68c232ca45b00aa6bba.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/build.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reference/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pointers/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Pointers/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Functions_and_Parameter_Passing/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,29 +52,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="Structs_and_Pointers" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Structs_and_Pointers" TARGET_NAME="Structs_and_Pointers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Structs_and_Pointers" RUN_TARGET_NAME="Structs_and_Pointers">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Structs_and_Pointers" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Structs_and_Pointers" TARGET_NAME="Structs_and_Pointers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Structs_and_Pointers" RUN_TARGET_NAME="Structs_and_Pointers">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -152,6 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688627747577</updated>
       <workItem from="1688627749449" duration="1383000" />
+      <workItem from="1688899799580" duration="1224000" />
     </task>
     <servers />
   </component>
