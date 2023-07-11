@@ -7,7 +7,7 @@ struct Student{
 };
 
 int main() {
-//    The C- style
+//    The C style
 
     struct Student* newStudent;
     newStudent = (Student *) malloc(sizeof(Student));
