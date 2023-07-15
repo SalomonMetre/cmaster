@@ -44,15 +44,15 @@ int main() {
     cout<<anotherPointer->firstName<<endl;
     cout<<anotherPointer->age<<endl;
 
-//    change the width of a rectangle
+//  create a rectangle struct
     auto rectangle = Rectangle{12, 13};
-//    case 1
+//    case 1 : by address
     changeLengthAndShowPerimeter_Pointer(&rectangle);
 
-//    case 2
+//    case 2 : by reference
     changeLengthAndShowPerimeter_Reference(rectangle);
 
-////    case 3
+////    case 3 : by value
     changeLengthAndShowPerimeter_Value(rectangle);
 
     cout<<"Current length : "<<rectangle.length<<endl;

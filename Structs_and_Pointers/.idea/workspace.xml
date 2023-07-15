@@ -27,7 +27,6 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Structs_and_Pointers.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Structs_and_Pointers.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Structs_and_Pointers" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Structs_and_Pointers" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,8 @@
       <workItem from="1689192558285" duration="1415000" />
       <workItem from="1689281689168" duration="3000" />
       <workItem from="1689288546545" duration="1292000" />
-      <workItem from="1689359597034" duration="1286000" />
+      <workItem from="1689359597034" duration="1944000" />
+      <workItem from="1689427497434" duration="3000" />
     </task>
     <servers />
   </component>
