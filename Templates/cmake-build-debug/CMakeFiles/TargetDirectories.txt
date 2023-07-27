@@ -1,0 +1,3 @@
+/home/salomon-metre/CLionProjects/DSA C@C++/Templates/cmake-build-debug/CMakeFiles/Templates.dir
+/home/salomon-metre/CLionProjects/DSA C@C++/Templates/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/salomon-metre/CLionProjects/DSA C@C++/Templates/cmake-build-debug/CMakeFiles/rebuild_cache.dir
